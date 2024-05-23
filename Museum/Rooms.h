@@ -1,14 +1,14 @@
 #pragma once
 #include <iostream>
-#include <vector>
-#include <string>
-
+using namespace std;
 class Rooms
 {
 public:
-	Rooms(double lenght, double weight, double height, double wallArea, double numberOfWindows, double numberOfDoors);
+	Rooms(double r_lenght, double r_wigdt, double r_height, double r_usefulArea, double r_allArea);
+	
 
 private:
-	double lenght, weight, height, wallArea, numberOfWindows, numberOfDoors;
+	double r_lenght, r_wigdt, r_height, r_usefulArea, r_allArea,
 };
+
 

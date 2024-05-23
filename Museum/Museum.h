@@ -1,15 +1,8 @@
 #pragma once
-#include <vector>
-#include <iostream>
-#include <algorithm>
-#include <exception>
-#include <string>
 
 class Museum {
 public:
-
+	Museum()
 private:
-	int countOfRooms;
-	double area;
 
-};
+}

@@ -21,12 +21,24 @@
     <ClCompile Include="Rooms.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Exhibit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VolumeExhibit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Rooms.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Museum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VolumeExhibit.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exhibit.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
