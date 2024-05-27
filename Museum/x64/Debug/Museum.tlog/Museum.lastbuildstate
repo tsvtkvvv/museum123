@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.37.32822:TargetPlatformVersion=10.0.22621.0:
 Debug|x64|C:\Users\User\Documents\GitHub\museum123\Museum\|
+=======
+PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.37.32822:TargetPlatformVersion=10.0.22621.0:
+Debug|x64|C:\Users\User\source\repos\MuseumProject\Museum\|
+>>>>>>> 71ad60a3724ee24d3795d55b80db2ea9e5bd79b4

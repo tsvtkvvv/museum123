@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 C:\Users\User\source\repos\MuseumProject\Museum\x64\Debug\Museum.exe
 C:\Users\User\Documents\GitHub\museum123\Museum\x64\Debug\Museum.exe
+=======
+C:\Users\User\source\repos\MuseumProject\Museum\x64\Debug\Museum.exe
+>>>>>>> 71ad60a3724ee24d3795d55b80db2ea9e5bd79b4
